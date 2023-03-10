@@ -1,0 +1,279 @@
+.icon{
+    display: flex;
+    gap: 14%;
+}
+#food{
+    font-style:italic;
+     color: yellow;
+    font-size: large;
+}
+#home{
+    color: yellow;
+}
+#colour{
+     color: yellow; 
+}
+.introduction{
+    display: flex;
+    background-color:whitesmoke;
+    gap: 10%;
+    border-radius: 15px;
+    margin-bottom: 4%;
+    height: 500px;
+}
+.words{
+    font-size: larger;
+    margin-left: 16%;
+}
+.food img{
+    width: 500px;
+    height: 500px;
+}
+.button{
+    
+    background-color: yellow;
+    border-radius: 12px;
+    color: aliceblue;
+    padding: 18px;
+     border-style: none;}
+    .head{
+        text-align: center;
+        
+    }
+    #heading{
+        font-style:italic;
+    }
+    .foods{
+        display: flex;
+        width: 350px;
+        height: 295px;
+        gap:20%;
+        padding: 40px;
+    }
+    .foods img{
+        border-radius: 600px;
+        height: 300px;
+        width: 300px;
+    }
+    .description{
+        display: flex;
+        gap: 20%;
+        padding: 30px;
+
+    }
+    .buton{
+        background-color: yellow;
+        color: aliceblue;
+        border-radius: 12px;
+        padding: 12px;
+        border: 0px;
+        margin-bottom: 90%;
+    }
+    .box{
+        background-color: yellow;
+        color: aliceblue;
+        border-radius: 5px;
+        border: 0px;
+        
+    }
+    .offers{
+        display: flex;
+        gap:16%;
+        padding:4%;
+        background-color:whitesmoke;
+        border-radius: 4%;
+    }
+    .foodsf img{
+     height: 430px;
+    width: 430px;
+
+    }
+    .advertise{
+margin-left: 8%;
+padding-top: 120px;
+
+    }
+    #hed{
+        font-size:57px;
+    }
+.touchbar{
+    background-color: yellow;
+    color: aliceblue;
+    padding: 18px;
+    border-radius: 15px;
+    border: 0px;
+}
+.offer{
+    text-align: center;
+
+}
+.tastes {
+    display: flex;
+    gap :6%;
+
+     font-size: 8px;
+    
+}
+.tastes,img{
+    height: 200px;
+
+}
+.taste{
+    background-color:whitesmoke;
+    display: flex;
+    padding: 2px;
+    border-radius: 12%;
+    
+    
+}
+.header{
+    padding: 56px;
+}
+.burger{
+height: 6px;
+padding: 3px;
+}
+.map{
+    height: 72px;
+    padding-right: 65px;
+}
+#color{
+    background-color: yellow;
+    border-radius: 12px;
+    border: 0px;
+    margin-bottom: 52%;
+}
+#three{
+    margin-left: 23%;
+    background-color: yellow;
+    border-radius: 100%;
+    border: 0px;
+    padding: 3px;
+    margin-bottom: 5%;
+}
+#price{
+    color: yellow;
+}
+.icons{
+    display: flex;
+    gap: 12%;
+    margin-left: 8%;
+    
+}
+.cons{
+    width: 150px;
+    height: 200px;
+    color: yellow;
+}
+.ion{
+    background-color: whitesmoke;
+    height: 22%;
+    width: 22%;
+    border-radius: 12%;
+    margin-bottom:5% ;
+}
+#service{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.message{
+    text-align: center;
+}
+.team {
+display: flex;
+margin-left: 22%;
+gap: 15%;
+}
+.team img{
+  border-radius: 100%;   
+}
+.ceo{
+    text-align: center;
+}
+.ceo button{
+    background-color:yellow;
+    border: 0px;
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+.app{
+    background-color: papayawhip;
+    display: flex;
+    gap: 12%;
+    height: 500px;   
+}
+.phone img{
+height: 400px;
+margin-left: 42%;
+margin-top: 12%;
+}
+.download{
+    margin-top: 6%;
+}
+.download button{
+    background-color:brown;
+    border: 0px;
+    padding: 12px 12px;
+    margin-left: 22%;
+    border-radius: 15% ;
+}
+.download button img{
+    height: 23px;
+    margin-bottom: 7%;
+    
+    
+}
+.subscribe{
+    display: flex;
+    gap: 12%;
+    background-color: papayawhip;
+    padding: 23px;
+}
+.email{
+    display: flex;
+    background-color: white;
+    gap:50%;
+    width: 504px;
+    height: 62px;
+    margin-left: 4%;
+    margin-top: 6%;
+}
+    
+    
+    .bar button{
+        margin-top: 6%;
+        padding: 12px;
+        border-radius: 12%;
+        background-color: yellow;
+        color: aliceblue;
+        border: 0px;
+        margin-bottom: 5%;
+
+    }
+    .footer{
+        display: flex;
+        gap:17%;
+        background-color: black;
+        color: aliceblue;
+    }
+    .bottom{
+        display: flex;
+        gap: 6%;
+        padding: 3px;
+        background-color: yellow;
+        color: aliceblue;
+        
+    }
+    .bottom p{
+        margin-left: 12%;
+    }
+
+
+
+
+
+    
+
+    
+
